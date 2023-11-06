@@ -3,13 +3,14 @@
     max-width: 200vw;
   }
   header{
-    background-color:#dcdcdcbb;
+    background-image:linear-gradient()
+
     height:270px ;
   }
   main{
     height: 500px;
      background-color: black;
-     background-image: url(imagnes/joaquimfundo.jpg);
+     background-image: url(joaquimfundo.jpg);
      background-repeat: no-repeat;
      background-size: cover;
      background-attachment: fixed;
@@ -206,7 +207,8 @@
 #news{
   
   margin-left: 9%;
-   margin-top: 70px;
+   margin-top: 0px;
+   padding-top: 1%;
 }
 #news i{
   color: #898fff;
@@ -233,7 +235,7 @@
 
 div#imagemnews{
   background-color: black;
-  background-image: url(imagnes/culturadoPR2.png);
+  background-image: url(culturadoPR2.png);
  background-size: cover ;
   background-position: top center;
   width: 300px;
@@ -299,7 +301,7 @@ div#titulo a{
 
   div#imagem2{
       background-color: black;
-      background-image: url(imagnes/assembleia2.png);
+      background-image: url(assembleia2.png);
       background-size: cover ;
       background-position: top center;
       width: 300px;
@@ -363,7 +365,7 @@ div#titulo a{
 
       div#imagem3{
           background-color: black;
-          background-image: url(imagnes/projetoinf2.jpg);
+          background-image: url(projetoinf2.jpg);
           background-size: cover ;
           background-position: top center;
           width: 300px;
